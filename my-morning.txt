@@ -3,3 +3,5 @@
 -sleep
 -wake up again
 -do something 
+-think again
+
