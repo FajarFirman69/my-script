@@ -1,3 +1,5 @@
 -wake up
 -eat
 -sleep
+-wake up again
+-do something 
